@@ -1,6 +1,6 @@
 {
   "$schema": "https://glama.ai/mcp/schemas/server.json",
-  "maintainers": ["danie-carbondatasolutions"],
+  "maintainers": ["Carbon-Data-Solutions"],
   "name": "Carbon",
   "description": "Hire data professionals from any MCP host. Post a role free."
 }
