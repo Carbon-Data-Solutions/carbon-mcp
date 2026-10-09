@@ -1,5 +1,4 @@
 {
-  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "io.github.CarbonDataSolutions/carbon",
   "title": "Carbon",
   "description": "Hire data professionals from any MCP host. Post a role free.",
